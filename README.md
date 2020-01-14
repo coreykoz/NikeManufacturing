@@ -1,4 +1,7 @@
 # Nike Manufacturing
+
+INFO 197P - Programming in Python/Data Science
+
 Spring 2019
 
 In this project, I looked at Nike's public data on where they manufacture their products 
